@@ -1,0 +1,51 @@
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

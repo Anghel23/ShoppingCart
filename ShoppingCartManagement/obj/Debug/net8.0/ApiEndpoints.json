@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "ShoppingCartManagement.Controllers.ShoppingCartsController",
+    "Method": "CreateShoppingCart",
+    "RelativePath": "api/v1/ShoppingCarts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Use_Cases.Commands.CreateShoppingCartCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShoppingCartManagement.Controllers.ShoppingCartsController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/ShoppingCarts/id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Application.DTOs.ShoppingCartDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

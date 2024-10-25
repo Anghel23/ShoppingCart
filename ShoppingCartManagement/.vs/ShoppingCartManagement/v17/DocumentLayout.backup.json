@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\application\\use cases\\commands\\createshoppingcartcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56294B1-F444-4FBC-9D96-762A370D480A}|ShoppingCartManagement.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcartmanagement\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56294B1-F444-4FBC-9D96-762A370D480A}|ShoppingCartManagement.csproj|solutionrelative:controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\application\\utils\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A4203-4481-4C3C-846D-E4B8E937BA91}|..\\Infrastructure\\Infrastructure.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1A4203-4481-4C3C-846D-E4B8E937BA91}|..\\Infrastructure\\Infrastructure.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:15:11.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:13:18.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartsController.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\Controllers\\ShoppingCartsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\Controllers\\ShoppingCartsController.cs",
+              "RelativeToolTip": "Controllers\\ShoppingCartsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:11:34.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateShoppingCartCommandValidator.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Use Cases\\Commands\\CreateShoppingCartCommandValidator.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Use Cases\\Commands\\CreateShoppingCartCommandValidator.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Use Cases\\Commands\\CreateShoppingCartCommandValidator.cs",
+              "RelativeToolTip": "..\\Application\\Use Cases\\Commands\\CreateShoppingCartCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:03:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:00:32.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Utils\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Utils\\ValidationBehavior.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Utils\\ValidationBehavior.cs",
+              "RelativeToolTip": "..\\Application\\Utils\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T18:56:10.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

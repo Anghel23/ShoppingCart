@@ -1,0 +1,33 @@
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\.NET\CODURI LAB+CURS\.NET_tema\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\bin\Debug\net8.0\Domain.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\ref\Domain.dll
