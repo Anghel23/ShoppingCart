@@ -1,3 +1,4 @@
-Tema SHoppingCart
+Tema ShoppingCart
+
 Echipa:
 - Craciun Anghel-Constantin
