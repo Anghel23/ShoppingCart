@@ -21,10 +21,21 @@ namespace Infrastructure.Repositories
             return shoppingCart.Id;
         }
 
-        public Task DeleteAsync(Guid id)
+        public async Task<Guid> DeleteAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var cart = await context.ShoppingCarts.FindAsync(id);
+
+            if (cart == null)
+            {
+                throw new KeyNotFoundException($"Shopping cart with ID {id} was not found."); 
+            }
+
+            context.ShoppingCarts.Remove(cart);
+            await context.SaveChangesAsync(); 
+
+            return id; 
         }
+
 
         public async Task<IEnumerable<ShoppingCart>> GetAllAsync()
         {

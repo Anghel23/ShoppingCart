@@ -9,7 +9,7 @@ namespace Domain.Repositories
        Task<ShoppingCart> GetByUserIdAsync(Guid userId);
        Task<Guid> AddAsync(ShoppingCart shoppingCart);
        Task UpdateAsync(ShoppingCart shoppingCart);
-       Task DeleteAsync(Guid id);
+       Task<Guid> DeleteAsync(Guid id);
 
     }
 }

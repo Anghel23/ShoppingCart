@@ -3,6 +3,9 @@ using Application.Use_Cases.Commands;
 using Application.Use_Cases.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace ShoppingCartManagement.Controllers
 {
@@ -41,6 +44,25 @@ namespace ShoppingCartManagement.Controllers
         public async Task<ActionResult<List<ShoppingCartDto>>> GetAll()
         {
             return await mediator.Send(new GetShoppingCartsQuery());
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteShoppingCart(Guid id)
+        {
+            try
+            {
+                var result = await mediator.Send(new DeleteShoppingCartCommand { Id = id });
+
+                return NoContent(); 
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { Message = ex.Message }); 
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "An error occurred while deleting the shopping cart.", Error = ex.Message });
+            }
         }
 
     }
