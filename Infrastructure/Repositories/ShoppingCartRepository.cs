@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Domain.Repositories;
 using Infrastructure.Persistence;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Repositories
 {
@@ -25,9 +26,9 @@ namespace Infrastructure.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<ShoppingCart>> GetAllAsync()
+        public async Task<IEnumerable<ShoppingCart>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await context.ShoppingCarts.ToListAsync();
         }
 
         public async Task<ShoppingCart> GetByIdAsync(Guid id)

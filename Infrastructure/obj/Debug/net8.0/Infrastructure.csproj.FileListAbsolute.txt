@@ -49,3 +49,4 @@ D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\bin\Debug\net8.0\Domain.p
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

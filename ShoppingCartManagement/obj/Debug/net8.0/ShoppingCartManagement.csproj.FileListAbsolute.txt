@@ -358,3 +358,4 @@ D:\Facultate_Laptop\Intro.Net\.NET_tema\ShoppingCartManagement\obj\Debug\net8.0\
 D:\Facultate_Laptop\Intro.Net\.NET_tema\ShoppingCartManagement\obj\Debug\net8.0\ref\ShoppingCartManagement.dll
 D:\Facultate_Laptop\Intro.Net\.NET_tema\ShoppingCartManagement\bin\Debug\net8.0\FluentValidation.dll
 D:\Facultate_Laptop\Intro.Net\.NET_tema\ShoppingCartManagement\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\ShoppingCartManagement\obj\Debug\net8.0\ShoppingCartManagement.sourcelink.json

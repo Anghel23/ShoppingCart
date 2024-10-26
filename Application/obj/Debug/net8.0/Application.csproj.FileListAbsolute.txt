@@ -43,3 +43,4 @@ D:\Facultate_Laptop\Intro.Net\.NET_tema\Application\obj\Debug\net8.0\Application
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Application\obj\Debug\net8.0\refint\Application.dll
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Application\obj\Debug\net8.0\Application.pdb
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Application\obj\Debug\net8.0\ref\Application.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Application\obj\Debug\net8.0\Application.sourcelink.json

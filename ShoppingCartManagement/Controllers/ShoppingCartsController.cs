@@ -37,5 +37,11 @@ namespace ShoppingCartManagement.Controllers
             return Ok(result);
         }
 
+        [HttpGet]
+        public async Task<ActionResult<List<ShoppingCartDto>>> GetAll()
+        {
+            return await mediator.Send(new GetShoppingCartsQuery());
+        }
+
     }
 }
