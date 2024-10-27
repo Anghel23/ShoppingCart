@@ -6,7 +6,6 @@ using Application.Use_Cases.Queries;
 using Application.Use_Cases.QueryHandlers;
 using Application.DTOs;
 using FluentAssertions;
-using static System.Reflection.Metadata.BlobBuilder;
 
 namespace ShoppingCartManagement.Application.UnitTests
 {

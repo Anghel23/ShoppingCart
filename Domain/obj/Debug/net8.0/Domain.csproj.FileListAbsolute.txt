@@ -43,3 +43,4 @@ D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\ref\Domain.dll
 \\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\refint\Domain.dll
 \\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.pdb
 \\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.sourcelink.json

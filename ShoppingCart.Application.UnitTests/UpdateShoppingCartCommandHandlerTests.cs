@@ -2,12 +2,7 @@
 using Domain.Repositories;
 using Domain.Entities;
 using NSubstitute;
-using Application.DTOs;
 using FluentAssertions;
-using System;
-using System.Threading;
-using System.Threading.Tasks;
-using Xunit;
 using Application.Use_Cases.CommandsHandlers;
 
 namespace ShoppingCartManagement.Application.UnitTests

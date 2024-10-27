@@ -1,33 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCartManagement\\",
+  "WorkspaceRootPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|\\\\mac\\home\\desktop\\shoppingcart\\shoppingcart.application.unittests\\deleteshoppingcartcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcart.application.unittests\\updateshoppingcartcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|\\\\mac\\home\\desktop\\shoppingcart\\shoppingcart.application.unittests\\updateshoppingcartcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcart.application.unittests\\getshoppingcartsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|\\\\mac\\home\\desktop\\shoppingcart\\shoppingcart.application.unittests\\getshoppingcartbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcart.application.unittests\\getshoppingcartbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|\\\\mac\\home\\desktop\\shoppingcart\\application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56294B1-F444-4FBC-9D96-762A370D480A}|ShoppingCartManagement.csproj|\\\\mac\\home\\desktop\\shoppingcart\\shoppingcartmanagement\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|\\\\mac\\home\\desktop\\shoppingcart\\application\\use cases\\commandshandlers\\updateshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|\\\\mac\\home\\desktop\\shoppingcart\\application\\use cases\\commands\\updateshoppingcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C1A4203-4481-4C3C-846D-E4B8E937BA91}|..\\Infrastructure\\Infrastructure.csproj|\\\\mac\\home\\desktop\\shoppingcart\\infrastructure\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F04EE34C-DDEE-47E0-9DCC-83E56DEE0C53}|..\\Domain\\Domain.csproj|\\\\mac\\home\\desktop\\shoppingcart\\domain\\repositories\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcart.application.unittests\\deleteshoppingcartcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,118 +27,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeleteShoppingCartCommandHandlerTests.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs*",
-              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDgAAAAFAAAAAAAAAA==",
+              "Title": "UpdateShoppingCartCommandHandlerTests.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
+              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:12:24.463Z",
+              "WhenOpened": "2024-10-27T15:05:41.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateShoppingCartCommandHandlerTests.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
-              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
-              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\UpdateShoppingCartCommandHandlerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Title": "GetShoppingCartsQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:11:22.847Z",
+              "WhenOpened": "2024-10-27T15:05:09.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GetShoppingCartByIdQueryHandlerTests.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
               "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
               "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:09:18.657Z",
+              "WhenOpened": "2024-10-27T15:04:42.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Application\\Utils\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Utils\\MappingProfile.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Application\\Utils\\MappingProfile.cs",
-              "RelativeToolTip": "..\\Application\\Utils\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "DeleteShoppingCartCommandHandlerTests.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs",
+              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\DeleteShoppingCartCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T13:04:51.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:59:55.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IShoppingCartRepository.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Repositories\\IShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Repositories\\IShoppingCartRepository.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Repositories\\IShoppingCartRepository.cs",
-              "RelativeToolTip": "..\\Domain\\Repositories\\IShoppingCartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:59:23.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShoppingCartsController.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCartManagement\\Controllers\\ShoppingCartsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShoppingCartsController.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\ShoppingCartManagement\\Controllers\\ShoppingCartsController.cs",
-              "RelativeToolTip": "Controllers\\ShoppingCartsController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAD4v1cAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:55:38.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateShoppingCartCommandHandler.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Application\\Use Cases\\CommandsHandlers\\UpdateShoppingCartCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Use Cases\\CommandsHandlers\\UpdateShoppingCartCommandHandler.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Application\\Use Cases\\CommandsHandlers\\UpdateShoppingCartCommandHandler.cs",
-              "RelativeToolTip": "..\\Application\\Use Cases\\CommandsHandlers\\UpdateShoppingCartCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:54:34.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateShoppingCartCommand.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Application\\Use Cases\\Commands\\UpdateShoppingCartCommand.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Use Cases\\Commands\\UpdateShoppingCartCommand.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Application\\Use Cases\\Commands\\UpdateShoppingCartCommand.cs",
-              "RelativeToolTip": "..\\Application\\Use Cases\\Commands\\UpdateShoppingCartCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:53:45.544Z",
+              "WhenOpened": "2024-10-27T15:02:59.547Z",
               "EditorCaption": ""
             }
           ]
