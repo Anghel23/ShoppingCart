@@ -3,17 +3,13 @@
   "WorkspaceRootPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D56294B1-F444-4FBC-9D96-762A370D480A}|ShoppingCartManagement.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcartmanagement\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56294B1-F444-4FBC-9D96-762A370D480A}|ShoppingCartManagement.csproj|solutionrelative:controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcart.application.unittests\\getshoppingcartsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C1A4203-4481-4C3C-846D-E4B8E937BA91}|..\\Infrastructure\\Infrastructure.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\infrastructure\\repositories\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C5D51D4-6DF4-4AC1-A577-43FDA90DEC66}|..\\ShoppingCart.Application.UnitTests\\ShoppingCartManagement.Application.UnitTests.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\shoppingcart.application.unittests\\getshoppingcartbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\application\\use cases\\queryhandlers\\getshoppingcartsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4B2935D-3AC4-442F-9057-E8B44E677C6B}|..\\Application\\Application.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\application\\use cases\\queries\\getshoppingcartsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F04EE34C-DDEE-47E0-9DCC-83E56DEE0C53}|..\\Domain\\Domain.csproj|d:\\facultate_laptop\\intro.net\\.net_tema\\domain\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,58 +19,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCartsController.cs",
-              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\Controllers\\ShoppingCartsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShoppingCartsController.cs",
-              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCartManagement\\Controllers\\ShoppingCartsController.cs",
-              "RelativeToolTip": "Controllers\\ShoppingCartsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAABcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\ShoppingCart.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:21:17.082Z",
+              "WhenOpened": "2024-10-26T15:18:48.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShoppingCartRepository.cs",
-              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ShoppingCartRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAA9AAAAAAAAAA==",
+              "Title": "GetShoppingCartByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
+              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartByIdQueryHandlerTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA9wCQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:20:33.952Z",
+              "WhenOpened": "2024-10-26T15:15:26.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetShoppingCartsQueryHandler.cs",
-              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Use Cases\\QueryHandlers\\GetShoppingCartsQueryHandler.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Use Cases\\QueryHandlers\\GetShoppingCartsQueryHandler.cs",
-              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Use Cases\\QueryHandlers\\GetShoppingCartsQueryHandler.cs",
-              "RelativeToolTip": "..\\Application\\Use Cases\\QueryHandlers\\GetShoppingCartsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetShoppingCartsQueryHandlerTests.cs",
+              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "RelativeToolTip": "..\\ShoppingCart.Application.UnitTests\\GetShoppingCartsQueryHandlerTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:16:04.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetShoppingCartsQuery.cs",
-              "DocumentMoniker": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Use Cases\\Queries\\GetShoppingCartsQuery.cs",
-              "RelativeDocumentMoniker": "..\\Application\\Use Cases\\Queries\\GetShoppingCartsQuery.cs",
-              "ToolTip": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Application\\Use Cases\\Queries\\GetShoppingCartsQuery.cs",
-              "RelativeToolTip": "..\\Application\\Use Cases\\Queries\\GetShoppingCartsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T14:13:06.259Z",
+              "WhenOpened": "2024-10-26T15:13:51.266Z",
               "EditorCaption": ""
             }
           ]
