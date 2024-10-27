@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Infrastructure.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Domain.csproj": {
+    "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Domain.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\anghe\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\raresperju\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\anghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\raresperju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Infrastructure.csproj": {
+    "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\anghe\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Infrastructure\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\raresperju\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\anghe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\raresperju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Facultate_Laptop\\Intro.Net\\.NET_tema\\Domain\\Domain.csproj"
+              "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Domain.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Desktop\\ShoppingCart\\Domain\\Domain.csproj"
               }
             }
           }
@@ -148,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -47,6 +47,43 @@
   },
   {
     "ContainingType": "ShoppingCartManagement.Controllers.ShoppingCartsController",
+    "Method": "DeleteShoppingCart",
+    "RelativePath": "api/v1/ShoppingCarts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingCartManagement.Controllers.ShoppingCartsController",
+    "Method": "UpdateShoppingCart",
+    "RelativePath": "api/v1/ShoppingCarts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Application.Use_Cases.Commands.UpdateShoppingCartCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingCartManagement.Controllers.ShoppingCartsController",
     "Method": "GetById",
     "RelativePath": "api/v1/ShoppingCarts/id",
     "HttpMethod": "GET",

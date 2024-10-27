@@ -31,3 +31,15 @@ D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.dll
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Facultate_Laptop\Intro.Net\.NET_tema\Domain\obj\Debug\net8.0\ref\Domain.dll
+\\Mac\Home\Desktop\ShoppingCart\Domain\bin\Debug\net8.0\Domain.deps.json
+\\Mac\Home\Desktop\ShoppingCart\Domain\bin\Debug\net8.0\Domain.dll
+\\Mac\Home\Desktop\ShoppingCart\Domain\bin\Debug\net8.0\Domain.pdb
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.dll
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\refint\Domain.dll
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\Domain.pdb
+\\Mac\Home\Desktop\ShoppingCart\Domain\obj\Debug\net8.0\ref\Domain.dll

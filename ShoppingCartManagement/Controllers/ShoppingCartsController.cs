@@ -64,6 +64,27 @@ namespace ShoppingCartManagement.Controllers
                 return StatusCode(500, new { Message = "An error occurred while deleting the shopping cart.", Error = ex.Message });
             }
         }
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateShoppingCart(Guid id, UpdateShoppingCartCommand command)
+        {
+            if (id != command.Id)
+            {
+                return BadRequest(new { Message = "ID in URL does not match ID in request body." });
+            }
 
+            try
+            {
+                var updatedCartId = await mediator.Send(command); // Changed _mediator to mediator
+                return Ok(new { Message = $"Shopping cart with ID {id} updated successfully.", Id = updatedCartId });
+            }
+            catch (KeyNotFoundException ex)
+            {
+                return NotFound(new { Message = ex.Message });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "An error occurred while updating the shopping cart.", Error = ex.Message });
+            }
+        }
     }
 }

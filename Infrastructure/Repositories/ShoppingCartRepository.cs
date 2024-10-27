@@ -52,9 +52,20 @@ namespace Infrastructure.Repositories
             throw new NotImplementedException();
         }
 
-        public Task UpdateAsync(ShoppingCart shoppingCart)
+        public async Task UpdateAsync(ShoppingCart shoppingCart)
         {
-            throw new NotImplementedException();
+            var existingCart = await context.ShoppingCarts.FindAsync(shoppingCart.Id);
+
+            if (existingCart == null)
+            {
+                throw new KeyNotFoundException($"Shopping cart with ID {shoppingCart.Id} was not found.");
+            }
+
+            existingCart.UserId = shoppingCart.UserId; 
+            existingCart.TotalPrice = shoppingCart.TotalPrice; 
+            existingCart.IsEmpty = shoppingCart.IsEmpty; 
+
+            await context.SaveChangesAsync();
         }
     }
 }
